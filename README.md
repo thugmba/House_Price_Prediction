@@ -2,6 +2,8 @@
 
 ## Objectives
 
+Upon successful completion of this lab, you will have the opportunity to enhance the following skills:
+
 1. Data acquisition skills
 2. Data inspection skills
 3. Data analytics skills
